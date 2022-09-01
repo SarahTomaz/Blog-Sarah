@@ -1,0 +1,75 @@
+html {
+  background-image: url(/img/walpapper.jpg);
+  height: 400px;
+  width: 100%;
+}
+img {
+  position: absolute;
+  width: 190px;
+  height: 190px;
+  left: 90px;
+  top: 50px;
+  border-radius: 50%;
+  border: 10px solid #62b0be;
+}
+.name {
+  position: absolute;
+  width: 480px;
+  height: 40px;
+  left: 60px;
+  top: 280px;
+  font-family: Arial;
+}
+.nameProfile {
+  color: #13293d;
+}
+.bloco1 {
+  position: absolute;
+  width: 560px;
+  height: 435px;
+  left: 30px;
+  top: 450px;
+
+  background: #f9f7f3;
+  border-radius: 15%;
+  font-family: Arial;
+}
+.corpo {
+  position: absolute;
+  width: 400px;
+  height: 430px;
+  left: 30px;
+  top: 20px;
+}
+.hobbie {
+  position: absolute;
+  width: 500px;
+  height: 220px;
+  left: 30px;
+  top: 220px;
+}
+.bloco2 {
+  position: absolute;
+  width: 560px;
+  height: 435px;
+  left: 670px;
+  top: 450px;
+
+  background: #f9f7f3;
+  border-radius: 15%;
+  font-family: Arial;
+}
+.body {
+  position: absolute;
+  width: 500px;
+  height: 400px;
+  left: 30px;
+  top: 20px;
+}
+.rodape {
+  position: absolute;
+  width: 500px;
+  height: 220px;
+  left: 30px;
+  top: 230px;
+}
